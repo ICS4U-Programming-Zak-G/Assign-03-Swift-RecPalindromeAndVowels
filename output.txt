@@ -1,0 +1,6 @@
+The number of vowels in hi is 1.
+The word is empty.
+h3l10 must only contain letters.
+The word is empty.
+The number of vowels in queue is 4.
+The number of vowels in crypt is 0.
